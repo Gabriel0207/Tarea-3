@@ -1,0 +1,11 @@
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo #1.csproj.AssemblyReference.cache
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo #1.csproj.SuggestedBindingRedirects.cache
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo__1.Form1.resources
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo__1.Properties.Resources.resources
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo #1.csproj.GenerateResource.cache
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo #1.csproj.CoreCompileInputs.cache
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\bin\Debug\Aprendiendo #1.exe.config
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\bin\Debug\Aprendiendo #1.exe
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\bin\Debug\Aprendiendo #1.pdb
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo #1.exe
+C:\Users\20221978\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Visual Studio\Aprendiendo #1\Aprendiendo #1\obj\Debug\Aprendiendo #1.pdb
