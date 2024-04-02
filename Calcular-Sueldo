@@ -1,0 +1,20 @@
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //variables
+            double HT, HX, PH, PHX, sueldobruto, sueldoneto, descuento;
+            //Entrada de datos
+            HT = Convert.ToDouble(trabajadas.Text);
+            HX =  Convert.ToDouble(horaex.Text);
+            PH = Convert.ToDouble(precioxhoraex.Text);
+            PHX = Convert.ToDouble(horaxprecio.Text);
+            //procesos
+            sueldobruto = ((HT * PH) + (HX * PHX));
+            descuento = 0.18;
+            sueldoneto = sueldobruto * descuento;
+            horatrabajo.Text = HT.ToString();
+            horasextra.Text = HX.ToString();
+            preciohoraex.Text = PH.ToString();
+            precioxhora.Text = PHX.ToString();
+            sueldobrutotex.Text = sueldobruto.ToString();
+            sueldofinal.Text = sueldoneto.ToString();
+        }
